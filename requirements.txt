@@ -1,0 +1,16 @@
+ultralytics>=8.3.70  
+torch>=2.4.0
+torchvision>=0.19.0
+opencv-python
+numpy>=1.26.0
+scipy
+matplotlib
+albumentations>=1.4.0
+streamlit
+pillow
+python-dotenv
+onnx>=1.16.0
+onnxruntime-gpu
+
+# NOTE: If installation fails, change to 'onnxruntime' (CPU only)
+onnxruntime-gpu
