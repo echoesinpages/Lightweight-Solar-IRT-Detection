@@ -1,6 +1,6 @@
 # ☀️ Lightweight-Solar-IRT-Detection: SOTA Photovoltaic Defect Analysis
 
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Model](https://img.shields.io/badge/Model-YOLO26-00FFFF?style=for-the-badge)
 ![CV](https://img.shields.io/badge/CV-Adaptive_MSRCR-orange?style=for-the-badge)
