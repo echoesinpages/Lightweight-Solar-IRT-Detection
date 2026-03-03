@@ -24,8 +24,6 @@ The solution is built on a robust tech stack designed for scalability and perfor
 * **Interface:** Interactive Thermal Dashboard (Streamlit).
 * **Containerization:** Docker for consistent deployment.
 
-[Image of YOLO26 architecture showing NMS-free end-to-end design and MuSGD optimizer integration]
-
 ---
 
 ## 📂 Directory Structure
@@ -58,6 +56,6 @@ Ensure you have the following installed on your local machine:
 ### 2. Clone the Repository
 Run the following commands in your terminal to download the project and enter the directory:
 ```bash
-git clone [https://github.com/echoesinpages/Lightweight-Solar-IRT-Detection.git](https://github.com/echoesinpages/Lightweight-Solar-IRT-Detection.git)
+git clone https://github.com/echoesinpages/Lightweight-Solar-IRT-Detection.git
 cd Lightweight-Solar-IRT-Detection
 ```
